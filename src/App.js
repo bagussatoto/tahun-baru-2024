@@ -50,6 +50,12 @@ function App() {
       </div>
     </>
   );
+
+  <div class="center">
+  Designed By <a href="https://bio-bagus.netlify.app/" class="text-warning">Bagus Budi Satoto</a>
+  </div>
+
+
 }
 
 export default App;
